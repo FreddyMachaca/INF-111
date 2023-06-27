@@ -1,4 +1,4 @@
-public class Main {
+public class GenerarMatriz {
     public static void main(String[] args) {
         int[][] matriz = {
                 {1, 1, 0, 1, 1},
