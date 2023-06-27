@@ -1,6 +1,6 @@
 ## Prácticas Segundo Parcial INF-111
 
-### PDF de las prácticas: [Prácticas Segundo Parcial]()
+### PDF de las prácticas: [Prácticas Segundo Parcial](https://github.com/FreddyMachaca/INF-111/blob/main/PRÁCTICA%20SEGUNDO%20PARCIAL/PRÁCTICA%20SEGUNDO%20PARCIAL%20INF111.pdf)
 
 ### 1. Mostrar los dígitos central(es) de cada número
 - [Python](https://github.com/FreddyMachaca/INF-111/blob/main/PRÁCTICA%20SEGUNDO%20PARCIAL/Ejercicio1/Python/DigitosCentrales.py)
