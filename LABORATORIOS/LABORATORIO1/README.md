@@ -1,6 +1,6 @@
 # PRACTICA LABORATORIO 1 - INF-111
 
-PDF de la práctica: [LABORATORIO 1]()
+PDF de la práctica: [LABORATORIO 1](https://github.com/FreddyMachaca/INF-111/blob/main/LABORATORIOS/LABORATORIO1/PRACTICA%20LAB%201-LAB111.pdf)
 
 1. Encontrar el máximo de 3 números
     - [Java](https://github.com/FreddyMachaca/INF-111/blob/main/LABORATORIOS/LABORATORIO1/Ejercicio1/Java/MaximoTresNumeros.java)
